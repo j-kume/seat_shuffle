@@ -1,8 +1,4 @@
-# seat_shuffle
-
-
-
-## ダウンロード方法
+# ダウンロード＆kintoneへのアプリ追加
 1. releaseを開く  
 https://github.com/j-kume/seat_shuffle/releases
 
